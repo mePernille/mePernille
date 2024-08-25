@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mePernille
-- 👀 I’m interested in Python, AI, Cyber Security
-- 🌱 I’m currently learning C#, .NET, more Python, Linux
-- 📫 How to reach me sent me a message
+- Newly graduated from OsloMet with a bachelor degree in Data Science
+- 👀 I’m interested in Cyber Security, Computer Networking and databases. 
+- 🌱 I’m currently learning more about Linux
 
 <!---
 mePernille/mePernille is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
