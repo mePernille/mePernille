@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mePernille
-- Newly graduated from OsloMet with a bachelor degree in Data Science
-- 👀 I’m interested in Cyber Security, Computer Networking and databases. 
-- 🌱 I’m currently learning more about Linux
+- Bachelor degree in Data Science from OsloMet, working as a Platform engineer
+- 👀 I’m interested in Cyber Security, Kubernetes and developer workflow. 
+
 
 <!---
 mePernille/mePernille is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
